@@ -1,8 +1,8 @@
 # The Battery's Last Text to Its Charger
 
-[![Last commit](https://img.shields.io/github/last-commit/h05meigames/makefun-battery-last-text)](https://github.com/h05meigames/makefun-battery-last-text/commits/main)
-[![Repo size](https://img.shields.io/github/repo-size/h05meigames/makefun-battery-last-text)](https://github.com/h05meigames/makefun-battery-last-text)
-[![Top language](https://img.shields.io/github/languages/top/h05meigames/makefun-battery-last-text)](https://github.com/h05meigames/makefun-battery-last-text)
+[![make.fun · u-alven-the-battery-s-last-text-to-its-charger-4278cfab](https://make.fun/badge/u-alven-the-battery-s-last-text-to-its-charger-4278cfab.svg)](https://make.fun/bounty/u-alven-the-battery-s-last-text-to-its-charger-4278cfab?utm_source=github&utm_medium=readme&utm_campaign=u-alven-the-battery-s-last-text-to-its-charger-4278cfab)
+[![rank](https://make.fun/badge/u-alven-the-battery-s-last-text-to-its-charger-4278cfab/h05meigames/makefun-battery-last-text/rank.svg)](https://make.fun/bounty/u-alven-the-battery-s-last-text-to-its-charger-4278cfab/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-alven-the-battery-s-last-text-to-its-charger-4278cfab)
+[![reward](https://make.fun/badge/u-alven-the-battery-s-last-text-to-its-charger-4278cfab/h05meigames/makefun-battery-last-text/reward.svg)](https://make.fun/bounty/u-alven-the-battery-s-last-text-to-its-charger-4278cfab?utm_source=github&utm_medium=readme&utm_campaign=u-alven-the-battery-s-last-text-to-its-charger-4278cfab)
 
 Entry for the make.fun bounty **[The Battery's Last Text to Its Charger](https://make.fun/bounty/u-alven-the-battery-s-last-text-to-its-charger-4278cfab)** — the phone battery's final one-line text to the charger it waited for all day, at most 200 characters.
 
